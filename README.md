@@ -3,6 +3,9 @@
 ## 📝 Genel Bakış
 Dosya Dönüştürücü, çeşitli dosya türlerini birbirine dönüştürmek için kullanılan basit bir araçtır. Bu uygulama, kullanıcıların farklı dosya türlerini birbirine dönüştürmelerini sağlar.
 
+![vexelconvertor](https://github.com/SabanGnc/FileConvertor/assets/139702707/2bd0c8c9-6721-49cb-a8f3-cef8f7ee970c)
+
+
 ## 🚀 Özellikler
 - Kullanıcı dostu arayüz
 - Toplu dönüştürme özelliği: Birden fazla dosyayı aynı anda dönüştürme ve kaydetme
