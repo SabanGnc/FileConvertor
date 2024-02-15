@@ -38,7 +38,7 @@ Dosya Dönüştürücü, çeşitli dosya türlerini birbirine dönüştürmek i�
 - macOS
 
   ## Projeyi İndirmek İçin
-  <a href="https://dosya.co/68megakuyiyb/Vexel_Convertor.rar.html" target="_blank"><button>Github'da Görüntüle</button></a>
+  <a href="https://dosya.co/68megakuyiyb/Vexel_Convertor.rar.html" target="_blank"><button>Dosyayı indirmek için tıkla.</button></a>
 
 ## 📝 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
