@@ -37,7 +37,7 @@ Dosya Dönüştürücü, çeşitli dosya türlerini birbirine dönüştürmek i�
 - Linux
 - macOS
 
-  ## Projeyi İndirmek İçin
+  ## 🛜 Projeyi İndirmek İçin
   <a href="https://dosya.co/68megakuyiyb/Vexel_Convertor.rar.html" target="_blank"><button>Dosyayı indirmek için tıkla.</button></a>
 
 ```
